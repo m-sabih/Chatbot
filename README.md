@@ -1,4 +1,4 @@
 # Chatbot
 Basic implementation of chatbot in python which also includes basic commands such as opening google, showing weather info etc. 
-And seperate files for different modules which are used in it to make one complete project.
+seperate files for different modules are also included which are used to make one complete project.
 
