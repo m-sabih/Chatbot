@@ -5,13 +5,6 @@ Created on Thu Jan  9 09:41:03 2020
 @author: sabih
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 14 23:20:06 2019
-
-@author: sabih
-"""
-
 import pyttsx3
 
 engine = pyttsx3.init()
